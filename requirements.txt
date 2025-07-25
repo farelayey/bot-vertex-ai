@@ -1,0 +1,5 @@
+# Library untuk mengakses Google Cloud dan Vertex AI
+google-cloud-aiplatform
+
+# Library untuk membaca variabel dari file .env (berguna untuk menyimpan API Key)
+python-dotenv
